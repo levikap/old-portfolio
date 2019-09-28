@@ -1,5 +1,5 @@
 ---
-title: Developers Share Creations at the Boston Festival for Indie Games
+title: Boston Festival for Indie Games
 author: Levi Kaplan
 layout: post
 ---
