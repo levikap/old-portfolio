@@ -1,10 +1,10 @@
 ---
-title: Sirens, Geometry, and Synth: Two Door Cinema Club’s Dynamic Performance
+title: Two Door Cinema Club’s Dynamic Performance
 author: Levi Kaplan
 layout: post
 ---
 
-#### [Published Here] (https://www.artistrymagazine.com/two-door-cinema-club)
+#### [Published Here](https://www.artistrymagazine.com/two-door-cinema-club)
 
 On Sept. 16, Irish alternative-pop staple Two Door Cinema Club packed House of Blues, electrifying the venue with blinding geometric patterns and body-pounding bass. Siren lights revolved above the stage as the three-person phenomenon, consisting of Sam Halliday, Kevin Baird, and Alex Trimble, made their appearance. From the get-go, the music pulsed through synthesizers, bass guitar, and keyboard. Halliday and Baird were positioned in the back corners of the stage on raised platforms, while Trimble stood front and center — clearly the face of the band. He established and maintained the high-energy, dynamic, and quirky nature of the show, which matched the music phenomenally. Hair closely shaved, wearing a yellow turtleneck and a blue blazer, and blinking infrequently on some occasions, Trimble was an odd yet perfect fit for the band’s frontman.
 

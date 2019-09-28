@@ -1,72 +1,19 @@
 ---
-title: Second Post
-author: Chris
+title: Developers Share Creations at the Boston Festival for Indie Games
+author: Levi Kaplan
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
+The annual Boston Festival for Indie Games (BostonFIG) took place this year on September 14th, in Harvard’s Athletic Complex. The festival serves as an exhibition and celebration of titles being created by independent studios, big and small, in the Boston area. Booths lined the walls with developers standing ready to answer questions or show off their projects. With screens, controllers, and keyboards dominating the small tables, crowds gathered to watch demos and see what these games are all about. The games featured were all at different levels of development — some were new releases, some in an early access period, and some were still a work- in-progress — resulting in varying levels of polish, and some with balance issues or bugs.  
 
-Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
+One designer showcased a rough proof of concept for a dungeon crawler game called Loxodonia, made by a group of  students from Cornell University. Another had a Role Playing Game nearing release that had been in development for over five years called Wildermyth. It seemed that all these games, regardless of development time or level of polish, were backed by passionate and enthusiastic developers who clearly loved talking with players and receiving feedback.
 
-Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
+One such developer, Matteus van der Wilden, is a Northeastern alumnus who released his game Fruit Postal Service on June 28. Released on Steam, the game is described as a “package-delivery, battle-racing game.” Van der Wilden described his process of getting into game development as a result of his capstone project with Northeastern’s College of Arts, Media, and Design. Working with a team of five, he completed two capstone projects: Fruit Postal Service and Mazu, which is still in development. Fruit Postal Service took seven months to develop and was released on Steam with high praise, garnering 1600 reviews and a Mostly Positive rating.
 
-<span class="image right"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
+“One thing we knocked out of the park was scope,” said van der Wilden, while describing his team’s development process. He explained how he designed ten characters and multiple level maps, but decided not to put them into the final game. Instead, his team focused on making the existing game polished and fun to play. He plans on releasing an update to include new maps, game modes, and online play in 2020.  
 
-Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
+Luigi Guarnuccio is the solo developer behind the upcoming game The Last Hex, a rogue-like deck building RPG with 11 classes of characters to choose from. When asked about his development process, Guarnuccio described his decision to reach out to an artist whose library of assets struck him as perfect for the game. He used the entirety of the artist’s catalogue and commissioned him to create new artwork exclusively for the game. As a solo developer, this decision greatly cut down on his development time. Guarnuccio was able to release an early access version of the game last May, after starting development in May 2018.  He has been releasing weekly updates, including bug fixes and new content, providing his early supporters with additional gameplay while finalizing the game for a full release.  He hopes to release to Steam in February, with a port for the Nintendo Switch following soon after, due to feedback from fans.
 
-Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
+In addition to video games, BostonFIG had a large selection of tabletop games on display. This was similar to the video game section in that some were highly polished and nearing release, while others were at the early stages of development and looking for player feedback moving forward. One game nearing release was Widget Ridge, a steampunk deck builder made by Furious Tree Games. With branded shirts for sale and copies of the game out to play, the creator Ian Taylor was promoting for release in November after raising funds through Kickstarter. The tabletop section also included a wide selection of board games free for attendees to play.  
 
-Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.
-
-Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus in the following table:
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Price</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Item 1</td>
-        <td>Ante turpis integer aliquet porttitor.</td>
-        <td>29.99</td>
-      </tr>
-      <tr>
-        <td>Item 2</td>
-        <td>Vis ac commodo adipiscing arcu aliquet.</td>
-        <td>19.99</td>
-      </tr>
-      <tr>
-        <td>Item 3</td>
-        <td> Morbi faucibus arcu accumsan lorem.</td>
-        <td>29.99</td>
-      </tr>
-      <tr>
-        <td>Item 4</td>
-        <td>Vitae integer tempus condimentum.</td>
-        <td>19.99</td>
-      </tr>
-      <tr>
-        <td>Item 5</td>
-        <td>Ante turpis integer aliquet porttitor.</td>
-        <td>29.99</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="2"></td>
-        <td>100.00</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
-
-Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.
-
-An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
-
-Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.
+In both the tabletop and video game sections, the developers were warm and receptive and the festival goers eager to explore and share their thoughts. Such an environment allowed developers to get instant feedback on their games and for players to explore new genres and game ideas, gaining hands-on experience with the forefront of indie gaming.
