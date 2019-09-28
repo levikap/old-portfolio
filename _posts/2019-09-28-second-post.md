@@ -1,5 +1,5 @@
 ---
-title: Boston Festival for Indie Games
+title: Developer Showcase at Boston Festival for Indie Games 
 author: Levi Kaplan
 layout: post
 ---
