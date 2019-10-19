@@ -17,3 +17,5 @@ Luigi Guarnuccio is the solo developer behind the upcoming game The Last Hex, a 
 In addition to video games, BostonFIG had a large selection of tabletop games on display. This was similar to the video game section in that some were highly polished and nearing release, while others were at the early stages of development and looking for player feedback moving forward. One game nearing release was Widget Ridge, a steampunk deck builder made by Furious Tree Games. With branded shirts for sale and copies of the game out to play, the creator Ian Taylor was promoting for release in November after raising funds through Kickstarter. The tabletop section also included a wide selection of board games free for attendees to play.  
 
 In both the tabletop and video game sections, the developers were warm and receptive and the festival goers eager to explore and share their thoughts. Such an environment allowed developers to get instant feedback on their games and for players to explore new genres and game ideas, gaining hands-on experience with the forefront of indie gaming.
+
+ [Published Here](https://www.artistrymagazine.com/boston-fig)
