@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- assign _lessons = site.posts | sort: 'date' | reverse -%}
+{%- assign _lessons = site.lessons | sort: 'date' | reverse -%}
 {%- include header.html scrolly_nav=_lessons -%}
 <!-- Main -->
 <div id="main">
