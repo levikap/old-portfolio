@@ -1,5 +1,5 @@
 ---
-title: Developer Showcase at Boston Festival for Indie Games 
+title: Sidney Gish Concert 
 author: Levi Kaplan
 layout: post
 ---
